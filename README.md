@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
