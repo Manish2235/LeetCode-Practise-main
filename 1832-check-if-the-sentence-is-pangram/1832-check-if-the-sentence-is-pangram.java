@@ -1,6 +1,8 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
        boolean[] seen = new boolean[26];
+       if(sentence.length()<26)
+       return false;
         
         for (char c : sentence.toCharArray()) {
           
