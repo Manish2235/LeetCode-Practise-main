@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1603-running-sum-of-1d-array](https://github.com/manish80765/LeetCode-Practise/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
