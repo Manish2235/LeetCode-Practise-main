@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manish80765/LeetCode-Practise/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
