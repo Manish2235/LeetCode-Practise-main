@@ -105,14 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 ## String
 |  |
 | ------- |
