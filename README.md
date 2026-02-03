@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Matrix
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1832-check-if-the-sentence-is-pangram) |
