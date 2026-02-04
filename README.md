@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1603-running-sum-of-1d-array](https://github.com/manish80765/LeetCode-Practise/tree/master/1603-running-sum-of-1d-array) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1833-maximum-ice-cream-bars) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/manish80765/LeetCode-Practise/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Matrix
