@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
 ## Simulation
