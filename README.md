@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0279-perfect-squares) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
