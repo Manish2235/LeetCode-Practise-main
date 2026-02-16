@@ -4,7 +4,7 @@ class Solution {
 
         if (n <= 2) return n;
 
-        long a = 1, b = 2, c = 5;   // dp[1], dp[2], dp[3]
+        long a = 1, b = 2, c = 5;   
 
         for (int i = 4; i <= n; i++) {
             long next = (2 * c + a) % MOD;
