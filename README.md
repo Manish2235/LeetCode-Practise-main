@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [0790-domino-and-tromino-tiling](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0790-domino-and-tromino-tiling) |
 | [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
