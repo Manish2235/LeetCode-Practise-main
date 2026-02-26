@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
