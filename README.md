@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 ## String
 |  |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0176-second-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
