@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
