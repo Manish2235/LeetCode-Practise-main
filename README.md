@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 ## Backtracking
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
