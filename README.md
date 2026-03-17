@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 | [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
