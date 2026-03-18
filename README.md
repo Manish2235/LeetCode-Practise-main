@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 ## Backtracking
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
