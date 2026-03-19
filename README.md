@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manish80765/LeetCode-Practise/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0901-online-stock-span](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
