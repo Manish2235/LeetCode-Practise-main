@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
