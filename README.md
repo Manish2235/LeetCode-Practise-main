@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
