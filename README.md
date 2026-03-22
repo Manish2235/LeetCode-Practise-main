@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
