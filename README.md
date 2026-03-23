@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
