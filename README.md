@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manish80765/LeetCode-Practise/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0171-excel-sheet-column-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0137-single-number-ii) |
