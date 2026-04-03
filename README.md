@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0304-range-sum-query-2d-immutable) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1603-running-sum-of-1d-array](https://github.com/manish80765/LeetCode-Practise/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 | [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
