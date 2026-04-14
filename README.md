@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
