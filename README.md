@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1833-maximum-ice-cream-bars) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/manish80765/LeetCode-Practise/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Sorting
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manish80765/LeetCode-Practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
+| [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
