@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0926-flip-string-to-monotone-increasing) |
