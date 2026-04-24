@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0709-to-lower-case) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
