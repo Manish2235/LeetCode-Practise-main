@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manish80765/LeetCode-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,10 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
