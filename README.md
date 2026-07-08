@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0415-add-strings) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
