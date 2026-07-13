@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
+| [0506-relative-ranks](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0506-relative-ranks) |
 ## Breadth-First Search
 |  |
 | ------- |
