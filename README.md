@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1219-path-with-maximum-gold) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [2305-fair-distribution-of-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/2305-fair-distribution-of-cookies) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1143-longest-common-subsequence) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1704-determine-if-string-halves-are-alike) |
