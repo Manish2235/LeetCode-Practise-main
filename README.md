@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 ## Design
