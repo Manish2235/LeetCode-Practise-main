@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
 | [0506-relative-ranks](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0648-replace-words) |
 | [0931-minimum-falling-path-sum](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0983-minimum-cost-for-tickets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
+| [0648-replace-words](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0648-replace-words) |
 | [1079-letter-tile-possibilities](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0648-replace-words](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0709-to-lower-case) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0648-replace-words) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Bit Manipulation
 |  |
