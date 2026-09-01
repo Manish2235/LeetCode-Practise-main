@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0491-non-decreasing-subsequences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/1833-maximum-ice-cream-bars) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manish80765/LeetCode-Practise/tree/master/0646-maximum-length-of-pair-chain) |
 | [0899-orderly-queue](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0899-orderly-queue) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0457-circular-array-loop) |
 | [0680-valid-palindrome-ii](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0457-circular-array-loop) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Manish2235/LeetCode-Practise-main/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
